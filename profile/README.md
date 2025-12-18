@@ -1,6 +1,6 @@
 # Welcome to Ploi's GitHub! 💙💻
 
-![logo|50](https://ploi.io/images/main-logo.png)
+![logo|25](https://ploi.io/images/main-logo.png)
 
 ## About Ploi
 
