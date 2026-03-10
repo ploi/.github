@@ -65,22 +65,6 @@ All plans include a **5-day free trial** — no credit card required.
 
 ---
 
-## 🔌 Integrations & Partners
-
-<table>
-  <tr>
-    <td align="center">UpCloud</td>
-    <td align="center">DigitalOcean</td>
-    <td align="center">Hetzner</td>
-    <td align="center">Linode</td>
-    <td align="center">AWS EC2</td>
-    <td align="center">Vultr</td>
-    <td align="center">Scaleway</td>
-  </tr>
-</table>
-
----
-
 ## 🔗 Links
 
 - 🌐 [Website](https://ploi.io)
