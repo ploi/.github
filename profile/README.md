@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ploi.io/images/logo.svg" height="60" alt="Ploi" />
+  <img src="https://ploi.io/images/bimi/logo-bimi.svg" height="60" alt="Ploi" />
 
   <h3>Server Management Tool — Deploy your next server in a few clicks.</h3>
 
